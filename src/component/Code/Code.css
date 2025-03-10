@@ -47,6 +47,7 @@ input{
 .blog-card p:nth-child(3){
     color: rgb(48, 44, 44);
     border-bottom: 0.5px solid;
+    text-transform: capitalize;
 }
 .author a{
     color: rgb(48,44,44);
