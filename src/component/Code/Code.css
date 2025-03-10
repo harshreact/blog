@@ -45,8 +45,8 @@ input{
     text-align: left;
 }
 .blog-card p:nth-child(3){
-    color: rgb(48, 44, 44);
-    border-bottom: 0.5px solid;
+    color: #007B77;
+    border-bottom: 0.5px solid black;
     text-transform: capitalize;
 }
 .author a{

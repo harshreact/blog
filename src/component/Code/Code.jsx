@@ -43,7 +43,7 @@ const Code = () => {
             <div key={post.id} className="blog-card">
                 <h2 className="title_h2">{post.title}</h2>
                 <p>{post.body}</p>
-                <p>{post.tags.join(",")}</p>
+                <p>{post.tags.join(", ")}</p>
                 <p className="author">
                     <a href="#">By: {post.author.name}</a>
                 </p>
